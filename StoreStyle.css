@@ -1,0 +1,12 @@
+
+  .card-deck {
+    display: flex;
+  }
+  #all {
+    display: flex;
+  }
+  .nav-item:hover {
+    background-color: silver;
+    opacity: 0.4;
+    
+}
